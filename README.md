@@ -56,6 +56,7 @@ This [Sublime Text 3 (only)][4] plugin allows python developers to run (a single
 search for **`TestPlier`** and press <kbd>Enter</kbd>
 
 See also:
+
 1. [ITE - Integrated Toolset Environment](https://github.com/evandrocoan/ITE)
 1. [Package control docs](https://packagecontrol.io/docs/usage) for details.
 
